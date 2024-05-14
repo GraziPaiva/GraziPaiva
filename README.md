@@ -1,7 +1,8 @@
-### Olá! 👋
+### Olá! 🪻
 
-Boas vindas ao meu perfil 💙💙
-Meu nome é Grazielle MIlano
+Boas vindas ao meu perfil !
+>
+Meu nome é Grazielle 🪷
 
 Estou estudando na Alura
 >
